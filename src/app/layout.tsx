@@ -1,6 +1,6 @@
 import './globals.css'
 import type {Metadata} from 'next'
-import {Inter} from 'next/font/google';
+import {Inter} from 'https://fonts.google.com/specimen/Rubik+Wet+Paint?';
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
 

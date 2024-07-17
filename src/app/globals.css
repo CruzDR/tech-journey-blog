@@ -1,3 +1,5 @@
+@tailwind = sprite:hover
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
