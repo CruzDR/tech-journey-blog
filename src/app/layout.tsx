@@ -10,7 +10,7 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Inter({ weight: 'variable', subsets: ['latin']})
-const title = 'Luke\'s Site';
+const title = 'Cruzin\'s;
 const description = 'This my personal site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
