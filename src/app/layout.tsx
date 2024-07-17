@@ -14,7 +14,7 @@ const title = 'Cruzin/;Reindeer'
 const description = 'This my personal site'
 const links = [
   {title: 'Google', href: 'https://www.google.com'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  {title: 'Zombs', href: '/zombs.io'}
 ];
 const SocialLinks = {
   twitter: '#twitter',
