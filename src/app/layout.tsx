@@ -10,10 +10,10 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Inter({ weight: 'variable', subsets: ['latin']})
-const title = 'Cruzin\'s;
-const description = 'This my personal site';
+const title = 'Cruzin/;Reindeer'        
+const description = 'This my personal site'
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
+  {title: 'Google', href: 'https://www.google.com'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
